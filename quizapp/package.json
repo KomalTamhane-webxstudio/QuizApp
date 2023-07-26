@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server":"cd src/database/ && json-server --watch -p 8888 quizapp.json",
+    "json-server": "cd src/database/ && json-server --watch -p 8888 quizapp.json",
     "start-dev": "concurrently \"npm run json-server\" \"npm start\" ",
     "build": "react-scripts build",
     "test": "react-scripts test",
