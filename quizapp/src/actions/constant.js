@@ -51,7 +51,7 @@ export const UPDATE_USER_SUCCESS="UPDATE_USER_SUCCESS";
 export const UPDATE_USER_ERROR="UPDATE_USER_ERROR";
 
 
-//Exam module action type
+//question module action type
 export const GET_QUESTION_REQUEST=" GET_QUESTION_REQUEST";
 export const GET_QUESTION_SUCCESS=" GET_QUESTION_SUCCESS";
 export const GET_QUESTION_ERROR=" GET_QUESTION_ERROR";
